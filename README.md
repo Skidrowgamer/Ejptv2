@@ -1,8 +1,6 @@
-Skidrow/Yasir 
-Twitter @firfox20
-RedTeamer | Pentester | BugBouny Hunter 
-# Ejptv2 Tips & Tricks
-https://elearnsecurity.com/product/ejpt-certification/
+Skidrow/Yasir Twitter @firfox20  RedTeamer | Pentester | BugBouny Hunter
+
+
 ==============================================
 - > Exam Time [48H]
 - >  Exam Type [Multiple Choice]
